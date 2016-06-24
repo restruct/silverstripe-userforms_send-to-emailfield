@@ -1,0 +1,6 @@
+---
+Name: clientuserformextensions
+---
+UserDefinedForm_EmailRecipient:
+  extensions:
+    - 'UserDefinedForm_EmailRecipient_Extension'

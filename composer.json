@@ -1,0 +1,19 @@
+{
+	"name": "micschk/silverstripe-userforms_send-to-emailfield",
+	"description": "Make user-filled EmailFields available as recipient to/reply-to address in UserForms",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "userforms"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Restruct web & apps",
+			"email": "dev@restruct.nl"
+		}
+	],
+	"require": {
+		"silverstripe/userforms": "~3.1"
+	},
+	"extra": {
+		"installer-name": "userform_send-to-emailfield"
+	}
+}
