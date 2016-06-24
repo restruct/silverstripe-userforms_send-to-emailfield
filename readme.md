@@ -6,7 +6,7 @@ E.g. for sending out a simple "Thank you for your enquiry" reply.
 ## Installation
 
 ```sh
-$ composer require micschk/silverstripe-userforms_send-to-emailfield
+$ composer require micschk/silverstripe-userforms_send-to-emailfield dev-master
 ```
 
 ## Open-relay
