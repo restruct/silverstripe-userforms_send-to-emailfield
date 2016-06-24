@@ -11,7 +11,7 @@
 		}
 	],
 	"require": {
-		"silverstripe/userforms": "~3.1"
+		"silverstripe/userforms": ">=3"
 	},
 	"extra": {
 		"installer-name": "userform_send-to-emailfield"
