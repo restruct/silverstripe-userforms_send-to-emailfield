@@ -1,5 +1,5 @@
 ---
-Name: clientuserformextensions
+Name: userform_send_to_emailfield
 ---
 UserDefinedForm_EmailRecipient:
   extensions:
