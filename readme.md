@@ -9,6 +9,10 @@ E.g. for sending out a simple "Thank you for your enquiry" reply.
 $ composer require micschk/silverstripe-userforms_send-to-emailfield dev-master
 ```
 
+### Optional: plain e-mail tempalte
+This module contains a simple SubmittedFormEmail template without the <dd> tags, which may cause layout issues in some clients.
+If you want to use this instead of the default userforms template, copy the email directory into your theme.
+
 ## Open-relay
 This functionality was part of UserForms earlier but was removed because it creates a potential 'open relay' situation, 
 e.g. a spammer could potentially craft requests to your form and make it send out e-mail confirmations to people/addresses 
