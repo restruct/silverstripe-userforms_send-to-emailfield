@@ -1,5 +1,5 @@
 {
-	"name": "micschk/silverstripe-userforms_send-to-emailfield",
+	"name": "restruct/silverstripe-userforms_send-to-emailfield",
 	"description": "Make user-filled EmailFields available as recipient to/reply-to address in UserForms",
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "userforms"],
